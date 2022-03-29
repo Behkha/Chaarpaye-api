@@ -1,0 +1,446 @@
+web site is up again
+web site is up again
+web site is up again
+web site is up again
+web site is up again
+web site is up again
+web site is up again
+web site is up again
+web site is up again
+web site is up again
+web site is up again
+web site is up again
+web site is up again
+Could not create directory '/var/www/.ssh'.
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Package operations: 0 installs, 0 updates, 30 removals
+  - Removing webmozart/assert (1.4.0)
+  - Removing theseer/tokenizer (1.1.0)
+  - Removing sebastian/version (2.0.1)
+  - Removing sebastian/resource-operations (2.0.1)
+  - Removing sebastian/recursion-context (3.0.0)
+  - Removing sebastian/object-reflector (1.1.1)
+  - Removing sebastian/object-enumerator (3.0.3)
+  - Removing sebastian/global-state (2.0.0)
+  - Removing sebastian/exporter (3.1.0)
+  - Removing sebastian/environment (4.1.0)
+  - Removing sebastian/diff (3.0.2)
+  - Removing sebastian/comparator (3.0.2)
+  - Removing sebastian/code-unit-reverse-lookup (1.0.1)
+  - Removing phpunit/phpunit (7.5.6)
+  - Removing phpunit/php-token-stream (3.0.1)
+  - Removing phpunit/php-timer (2.1.1)
+  - Removing phpunit/php-text-template (1.2.1)
+  - Removing phpunit/php-file-iterator (2.0.2)
+  - Removing phpunit/php-code-coverage (6.1.4)
+  - Removing phpspec/prophecy (1.8.0)
+  - Removing phpdocumentor/type-resolver (0.4.0)
+  - Removing phpdocumentor/reflection-docblock (4.3.0)
+  - Removing phpdocumentor/reflection-common (1.0.1)
+  - Removing phar-io/version (2.0.1)
+  - Removing phar-io/manifest (1.0.3)
+  - Removing myclabs/deep-copy (1.8.1)
+  - Removing mockery/mockery (1.2.2)
+  - Removing hamcrest/hamcrest-php (v2.0.0)
+  - Removing fzaninotto/faker (v1.8.0)
+  - Removing doctrine/instantiator (1.1.0)
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+From gitlab.com:Mayatech/Chaarpaye/Dionysus-API
+   539d0b3..19eab7d  master     -> origin/master
+error: Your local changes to the following files would be overwritten by merge:
+	storage/tnt/chaarpaaye-posts.index
+Please commit your changes or stash them before you merge.
+Aborting
+Updating d9c4bba..19eab7d
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+error: insufficient permission for adding an object to repository database .git/objects
+fatal: failed to write object
+fatal: unpack-objects failed
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+error: insufficient permission for adding an object to repository database .git/objects
+fatal: failed to write object
+fatal: unpack-objects failed
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+error: insufficient permission for adding an object to repository database .git/objects
+fatal: failed to write object
+fatal: unpack-objects failed
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+error: insufficient permission for adding an object to repository database .git/objects
+fatal: failed to write object
+fatal: unpack-objects failed
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+error: insufficient permission for adding an object to repository database .git/objects
+fatal: failed to write object
+fatal: unpack-objects failed
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+From gitlab.com:Mayatech/Chaarpaye/Dionysus-API
+   19eab7d..7d55a0a  master     -> origin/master
+error: Your local changes to the following files would be overwritten by merge:
+	storage/tnt/chaarpaaye-posts.index
+Please commit your changes or stash them before you merge.
+Aborting
+Updating d9c4bba..7d55a0a
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+From gitlab.com:Mayatech/Chaarpaye/Dionysus-API
+   7d55a0a..0102f18  master     -> origin/master
+Updating 7d55a0a..0102f18
+Fast-forward
+ app/Models/Character.php | 10 +++++++++-
+ app/Models/PlaceType.php |  3 +++
+ config/queue.php         |  2 +-
+ 3 files changed, 13 insertions(+), 2 deletions(-)
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+From gitlab.com:Mayatech/Chaarpaye/Dionysus-API
+   0102f18..c80b49a  master     -> origin/master
+Updating 0102f18..c80b49a
+Fast-forward
+ config/queue.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+From gitlab.com:Mayatech/Chaarpaye/Dionysus-API
+   c80b49a..9359e27  master     -> origin/master
+Updating c80b49a..9359e27
+Fast-forward
+ app/Http/Controllers/v3/FileController.php | 10 +++++++---
+ app/Jobs/SendSMS.php                       |  3 +++
+ config/queue.php                           |  2 +-
+ 3 files changed, 11 insertions(+), 4 deletions(-)
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+From gitlab.com:Mayatech/Chaarpaye/Dionysus-API
+   9359e27..04598c5  master     -> origin/master
+   553d513..04598c5  develop    -> origin/develop
+Updating 9359e27..04598c5
+Fast-forward
+ config/sentry.php | 2 +-
+ readme.md         | 6 +++++-
+ 2 files changed, 6 insertions(+), 2 deletions(-)
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+From gitlab.com:Mayatech/Chaarpaye/Dionysus-API
+   04598c5..618e308  master     -> origin/master
+   04598c5..618e308  develop    -> origin/develop
+Updating 04598c5..618e308
+Fast-forward
+ app/Http/Controllers/v3/FileController.php | 2 +-
+ app/Jobs/SendSMS.php                       | 2 +-
+ routes/v1.php                              | 2 +-
+ 3 files changed, 3 insertions(+), 3 deletions(-)
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+From gitlab.com:Mayatech/Chaarpaye/Dionysus-API
+   618e308..98a0b1e  master     -> origin/master
+Updating 618e308..98a0b1e
+Fast-forward
+ app/Models/CommentDetail.php | 2 +-
+ routes/v1.php                | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+From gitlab.com:Mayatech/Chaarpaye/Dionysus-API
+   98a0b1e..3112d51  master     -> origin/master
+Updating 98a0b1e..3112d51
+Fast-forward
+ app/Models/CommentDetail.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+From gitlab.com:Mayatech/Chaarpaye/Dionysus-API
+   3112d51..a679c1f  master     -> origin/master
+   618e308..a679c1f  develop    -> origin/develop
+Updating 3112d51..a679c1f
+Fast-forward
+ routes/v3.php | 331 +++++++++++++++++++++++++++++++++++-----------------------
+ 1 file changed, 198 insertions(+), 133 deletions(-)
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+From gitlab.com:Mayatech/Chaarpaye/Dionysus-API
+   a679c1f..f9a6bf0  master     -> origin/master
+Updating a679c1f..f9a6bf0
+Fast-forward
+ routes/v3.php | 331 +++++++++++++++++++++++-----------------------------------
+ 1 file changed, 133 insertions(+), 198 deletions(-)
+Cannot create cache directory /var/www/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /var/www/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+From gitlab.com:Mayatech/Chaarpaye/Dionysus-API
+   f9a6bf0..f6cacf0  master     -> origin/master
+   a679c1f..f6cacf0  develop    -> origin/develop
+warning: unable to access '/root/.config/git/attributes': Permission denied
+warning: unable to access '/root/.config/git/ignore': Permission denied
+warning: unable to access '/root/.config/git/attributes': Permission denied
+Updating f9a6bf0..f6cacf0
+Fast-forward
+warning: unable to access '/root/.config/git/attributes': Permission denied
+warning: unable to access '/root/.config/git/attributes': Permission denied
+ app/Console/Commands/FixPostsLanguageId.php        |  53 ++++
+ app/Console/Kernel.php                             |   4 +-
+ app/Http/Controllers/v3/CategoryController.php     |  91 +++++--
+ app/Http/Controllers/v3/EventController.php        |  27 ++-
+ app/Http/Controllers/v3/FileController.php         |  41 ++++
+ app/Http/Controllers/v3/LanguageController.php     |  24 ++
+ app/Http/Controllers/v3/PlaceController.php        |  37 ++-
+ app/Http/Controllers/v3/PostController.php         |  25 +-
+ app/Http/Controllers/v3/UserController.php         |  55 ++++-
+ app/Http/Middleware/Authenticate.php               |   6 +-
+ .../Middleware/CheckLanguageHeaderMiddleware.php   |  37 +++
+ app/Http/Middleware/CorsMiddleware.php             |   2 +-
+ app/Http/Resources/CategoryResource.php            |   4 +-
+ app/Http/Resources/EventResource.php               |   3 +-
+ app/Http/Resources/LanguageResource.php            |  23 ++
+ app/Http/Resources/PlaceResource.php               |   3 +-
+ app/Http/Resources/UserResource.php                |   8 +-
+ app/Models/Category.php                            | 268 ++++++++++++---------
+ app/Models/Event.php                               |  19 +-
+ app/Models/Language.php                            |  31 +++
+ app/Models/Place.php                               |  13 +-
+ app/Models/Post.php                                |   5 +
+ app/Models/User.php                                |   4 +
+ bootstrap/app.php                                  |   3 +-
+ ...6_140234_add_profile_picture_to_users_table.php |  32 +++
+ ...16_172841_add_parnet_id_to_categories_table.php |  35 +++
+ .../2019_05_17_190415_create_languages_table.php   |  35 +++
+ ..._id_to_posts_events_places_categories_table.php |  48 ++++
+ ..._is_profile_picture_accepted_to_users_table.php |  32 +++
+ database/seeds/LanguagesSeeder.php                 |  31 +++
+ routes/v3.php                                      |  13 +-
+ 31 files changed, 831 insertions(+), 181 deletions(-)
+ create mode 100644 app/Console/Commands/FixPostsLanguageId.php
+ create mode 100644 app/Http/Controllers/v3/LanguageController.php
+ create mode 100644 app/Http/Middleware/CheckLanguageHeaderMiddleware.php
+ create mode 100644 app/Http/Resources/LanguageResource.php
+ create mode 100644 app/Models/Language.php
+ create mode 100644 database/migrations/2019_05_16_140234_add_profile_picture_to_users_table.php
+ create mode 100644 database/migrations/2019_05_16_172841_add_parnet_id_to_categories_table.php
+ create mode 100644 database/migrations/2019_05_17_190415_create_languages_table.php
+ create mode 100644 database/migrations/2019_05_17_192637_add_language_id_to_posts_events_places_categories_table.php
+ create mode 100644 database/migrations/2019_05_17_205848_add_is_profile_picture_accepted_to_users_table.php
+ create mode 100644 database/seeds/LanguagesSeeder.php
+Cannot create cache directory /root/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /root/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+
+                                        
+  The "class" argument does not exist.  
+                                        
+
+Broadcasting queue restart signal.
+From gitlab.com:Mayatech/Chaarpaye/Dionysus-API
+   f6cacf0..1062561  master     -> origin/master
+warning: unable to access '/root/.config/git/ignore': Permission denied
+warning: unable to access '/root/.config/git/attributes': Permission denied
+Updating f6cacf0..1062561
+Fast-forward
+warning: unable to access '/root/.config/git/attributes': Permission denied
+warning: unable to access '/root/.config/git/attributes': Permission denied
+ database/migrations/2019_05_17_190415_create_languages_table.php | 2 +-
+ database/seeds/LanguagesSeeder.php                               | 6 +++---
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+Cannot create cache directory /root/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /root/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+
+In Builder.php line 414:
+                                                     
+  No query results for model [App\Models\Language].  
+                                                     
+
+Broadcasting queue restart signal.
+From gitlab.com:Mayatech/Chaarpaye/Dionysus-API
+   1062561..efd7397  master     -> origin/master
+warning: unable to access '/root/.config/git/attributes': Permission denied
+warning: unable to access '/root/.config/git/ignore': Permission denied
+warning: unable to access '/root/.config/git/attributes': Permission denied
+Updating 1062561..efd7397
+Fast-forward
+warning: unable to access '/root/.config/git/attributes': Permission denied
+warning: unable to access '/root/.config/git/attributes': Permission denied
+ database/migrations/2019_05_17_190415_create_languages_table.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Cannot create cache directory /root/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /root/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+
+In Builder.php line 414:
+                                                     
+  No query results for model [App\Models\Language].  
+                                                     
+
+Broadcasting queue restart signal.
+From gitlab.com:Mayatech/Chaarpaye/Dionysus-API
+   efd7397..dc1868a  master       -> origin/master
+ * [new branch]      captain-iran -> origin/captain-iran
+   f6cacf0..b68b3c1  develop      -> origin/develop
+ * [new branch]      garazhdara   -> origin/garazhdara
+warning: unable to access '/root/.config/git/attributes': Permission denied
+warning: unable to access '/root/.config/git/ignore': Permission denied
+warning: unable to access '/root/.config/git/attributes': Permission denied
+Updating efd7397..dc1868a
+Fast-forward
+warning: unable to access '/root/.config/git/attributes': Permission denied
+warning: unable to access '/root/.config/git/attributes': Permission denied
+ app/Http/Controllers/v1/EventController.php        |  2 +-
+ app/Http/Controllers/v1/FileController.php         |  4 +-
+ app/Http/Controllers/v1/PlaceController.php        |  2 +-
+ app/Http/Middleware/CreateBookmarkSetFirstTime.php |  8 +--
+ app/Models/Bookmark.php                            |  8 +--
+ app/Models/Category.php                            | 14 ++--
+ app/Models/Event.php                               | 18 ++---
+ app/Models/Place.php                               | 14 ++--
+ config/cache.php                                   | 79 ++++++++++++++++++++++
+ .../2019_05_17_190415_create_languages_table.php   |  2 +-
+ 10 files changed, 115 insertions(+), 36 deletions(-)
+ create mode 100644 config/cache.php
+Cannot create cache directory /root/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /root/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+error: insufficient permission for adding an object to repository database .git/objects
+fatal: failed to write object
+fatal: unpack-objects failed
+Cannot create cache directory /root/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /root/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
+error: insufficient permission for adding an object to repository database .git/objects
+fatal: failed to write object
+fatal: unpack-objects failed
+Cannot create cache directory /root/.composer/cache/repo/https---repo.packagist.org/, or directory is not writable. Proceeding without cache
+Cannot create cache directory /root/.composer/cache/files/, or directory is not writable. Proceeding without cache
+Loading composer repositories with package information
+Installing dependencies from lock file
+Nothing to install or update
+Generating optimized autoload files
+Nothing to migrate.
+Broadcasting queue restart signal.
